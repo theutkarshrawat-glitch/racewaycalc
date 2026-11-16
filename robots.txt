@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theutkarshrawat-glitch.github.io/racewaycalc/sitemap.xml
